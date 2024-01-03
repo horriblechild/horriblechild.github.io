@@ -1,0 +1,19 @@
+repo_name: horriblechild/horriblechild.github.io
+report_id: c5ba448c48f2a7bd017897ecb60ed05d
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-03T02:32:07+00:00'
+requested_by: horriblechild
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
